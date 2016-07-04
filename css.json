@@ -1,0 +1,45 @@
+{
+    "room": "The Dungeon",
+    "author": "DJ Sonic",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        false,
+        "allowAutojoin":        false,
+        "allowAutograb":        false,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     false,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/1.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
